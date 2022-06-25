@@ -1,0 +1,16 @@
+>>> bool(0)
+# False
+>>> bool("")
+# False
+>>> bool(None)
+# False
+>>> bool(1)
+# True
+>>> bool(-100)
+# True
+>>> bool(13.5)
+# True
+>>> bool("teste")
+# True
+>>> bool(True)
+# True

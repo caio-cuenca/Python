@@ -1,0 +1,10 @@
+banana
+melancia
+morango
+abacaxi
+caju
+nectarina
+melao
+goiaba
+laranja
+limao
